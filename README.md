@@ -3,3 +3,7 @@ Prompts for performing tests on your Kali Linux using Gemini-cli, ChatGPT, DeepS
 
 ### Ultra-fast subdomain enumeration & reconnaissance tool with AI-powered analysis
 https://github.com/Vyntral/god-eye/tree/main
+
+
+### AI-powered log analysis and monitoring tool that uses local LLMs to provide intelligent insights from your system logs.
+https://github.com/binary-knight/logwhisperer/tree/main
